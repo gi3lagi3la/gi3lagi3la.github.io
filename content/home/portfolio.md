@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Cyber Threat Analysis
+      tag: CT
+    - name: Networks and Security
+      tag: NS
 
 design:
   columns: '1'
